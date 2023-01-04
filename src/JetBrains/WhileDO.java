@@ -1,4 +1,4 @@
-package src;
+package src.JetBrains;
 
 public class WhileDO {
     public static void main(String[] args) {

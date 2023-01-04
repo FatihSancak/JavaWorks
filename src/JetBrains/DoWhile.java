@@ -1,4 +1,4 @@
-package src;
+package src.JetBrains;
 
 import java.util.Scanner;
 

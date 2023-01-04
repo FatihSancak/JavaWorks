@@ -1,4 +1,4 @@
-package day07_ifStatements;
+package src.day07_ifStatements;
 
 public class C01_AndOperatorleri {
     public static void main(String[] args) {

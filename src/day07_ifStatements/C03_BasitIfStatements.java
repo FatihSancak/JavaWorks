@@ -1,4 +1,4 @@
-package day07_ifStatements;
+package src.day07_ifStatements;
 
 public class C03_BasitIfStatements {
     public static void main(String[] args) {

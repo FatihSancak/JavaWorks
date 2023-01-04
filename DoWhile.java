@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Deneme1 {
+public class DoWhile {
     public static void main(String[] args) {
         System.out.println("Merhaba Dunya");
         System.out.println("Bir değerlendirme notu giriniz");

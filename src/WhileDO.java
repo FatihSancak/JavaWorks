@@ -1,4 +1,4 @@
-
+package src;
 
 public class WhileDO {
     public static void main(String[] args) {

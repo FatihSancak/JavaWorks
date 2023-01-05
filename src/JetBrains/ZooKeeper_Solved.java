@@ -131,7 +131,6 @@ public class ZooKeeper_Solved {
  4) bu girdiye göre --- bir hayvan yazdırın --- sonsuz döngüden çıkın --- bir şeylerin yanlış olduğunu söyleyin
  5) programınızın sonunda veda mesajını yazdırın
  */
-
         String[] animals = {camel, lion, deer, goose, bat, rabbit};
         boolean control = true;
 

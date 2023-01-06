@@ -2,7 +2,7 @@ package src.day08_ifSatatements;
 
 import java.util.Scanner;
 
-public class C04_NestedIElse {
+public class C04_NestedIfElse {
     public static void main(String[] args) {
         /*
         Kullanıcıdan 4 basamakli bir sayi girmesini isteyin.

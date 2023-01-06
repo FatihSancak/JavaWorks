@@ -30,7 +30,8 @@ public class DivideToN {
         İPUÇLARI:
         *********************
         1
-        Bu, "başlangıç" ve "bitiş" arasındaki kaç int'nin "bölen" ile bölünebileceğini bulmam gerektiği anlamına gelir,
+        Bu, "başlangıç" ve "bitiş" arasındaki kaç int'nin "bölen" ile
+        bölünebileceğini bulmanız gerektiği anlamına gelir,
         yani kalan 0'dır.
         *********************
 

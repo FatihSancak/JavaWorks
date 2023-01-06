@@ -24,7 +24,7 @@ public class DivideToN {
                 tpl++;
             }
             a++;
-        }
+        } 
         System.out.println(tpl);
         /*
         İPUÇLARI:

@@ -1,4 +1,4 @@
-package src.day10_stringManupilation;
+package src.day10_stringManupilations;
 public class C05_Length {
     public static void main(String[] args) {
         String str = "Java öğren. işi kap";

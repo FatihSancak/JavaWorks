@@ -1,4 +1,4 @@
-package src.day10_stringManupilation;
+package src.day10_stringManupilations;
 
 public class C03_equels {
     public static void main(String[] args) {

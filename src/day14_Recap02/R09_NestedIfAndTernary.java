@@ -60,5 +60,7 @@ public class R09_NestedIfAndTernary {
                 sayi == 8 ? "sekiz" : +
                 sayi == 9 ? "dokuz" : +
                 sayi == 0 ? "sıfır" : "0 ile 9 arasında bir sayı giriniz");
+
+
     }
 }

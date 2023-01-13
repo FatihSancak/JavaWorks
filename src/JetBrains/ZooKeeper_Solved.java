@@ -145,6 +145,7 @@ public class ZooKeeper_Solved {
             }
             else{
                 System.out.println(animals[Integer.parseInt(input)]);
+                System.out.println("Tekrar deneyin");
             }
         }
     }

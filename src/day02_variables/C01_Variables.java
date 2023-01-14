@@ -1,4 +1,4 @@
-package day02_variables;
+package src.day02_variables;
    public class C01_Variables{
         public static void main(String[] args) {
             // Data türü    Variable İsmi     assigmnet sign       variable değeri

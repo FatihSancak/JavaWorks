@@ -1,7 +1,7 @@
-package src.JetBrains;
+/*package src.JetBrains;
 
 import java.util.Scanner;
-        /*
+
 public class Iteration_4 {
     public static void main(String[] args) {
 

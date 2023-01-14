@@ -6,7 +6,7 @@ public class C04_MethodCreation {
         // sonucunu yazdıran
         // bir method oluşturun
         int input1 = 180;
-        int input2 = 20;
+        int input2 = -150;
 
         /*
         Method 4 adımda oluşturulur.

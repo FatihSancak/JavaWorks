@@ -28,6 +28,5 @@ public class C06_NestedForLoop {
             }
             System.out.println("");
         }
-
     }
 }

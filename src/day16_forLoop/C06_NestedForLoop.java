@@ -17,7 +17,7 @@ public class C06_NestedForLoop {
 
 
          */
-        int sayi =5;
+        int sayi =15;
 
         // birinci FOR LOOP döngüsü
         for (int i = 1; i <= sayi ; i++)

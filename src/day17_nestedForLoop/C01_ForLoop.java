@@ -14,7 +14,6 @@ public class C01_ForLoop {
     }
     public static void tekrarsizYap(String input) {
         String benzersizInput="";
-
         String islenecekKelime = input.replaceAll("\\W","");// boşluklar kaldırıldı
         System.out.print(islenecekKelime.substring(0,1)); // sıfırıncı indexdeki harfi al
         benzersizInput += islenecekKelime.substring(0,1); // sıfırıncı indexdeki harfi al

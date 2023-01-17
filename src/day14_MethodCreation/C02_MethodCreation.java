@@ -16,20 +16,20 @@ public class C02_MethodCreation {
     }
 
     public static void rakamlariTopla(int input) {
-        int birlerbasamagi=0, rakamlarToplamı=0, girilenSayi=input;
+        int birlerbasamagi=0, rakamlarToplami=0, girilenSayi=input;
 
         birlerbasamagi = input%10;
-        rakamlarToplamı += birlerbasamagi;
+        rakamlarToplami += birlerbasamagi;
         input/=10;
 
         birlerbasamagi = input%10;
-        rakamlarToplamı += birlerbasamagi;
+        rakamlarToplami += birlerbasamagi;
         input/=10;
 
         birlerbasamagi = input%10;
-        rakamlarToplamı += birlerbasamagi;
+        rakamlarToplami += birlerbasamagi;
         input/=10;
 
-        System.out.println("girdiğiniz "+ girilenSayi+" sayısının rakamlar toplamı = "+ rakamlarToplamı);
+        System.out.println("girdiğiniz "+ girilenSayi+" sayısının rakamlar toplamı = "+ rakamlarToplami);
     }
 }

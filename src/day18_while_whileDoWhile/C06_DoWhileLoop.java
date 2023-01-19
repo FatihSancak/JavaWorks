@@ -36,7 +36,7 @@ public class C06_DoWhileLoop {
             }
         }while(sayi!=0);
 
-        System.out.println("Girilen " + pozSayiAdedi +" adet sayının toplamı : "+ pozSayilarTop );
+        System.out.println("Girilen " + pozSayiAdedi +" adet s ayının toplamı : "+ pozSayilarTop );
         System.out.println("Toplamda "+ negSayiAdedi+ " adet negeatif sayı girdiniz. ");
     }
 }

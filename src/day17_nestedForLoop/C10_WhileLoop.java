@@ -1,6 +1,6 @@
 package src.day17_nestedForLoop;
 
-public class C10 {
+public class C10_WhileLoop {
     public static void main(String[] args) {
         boolean dogruMu = false;
         int sayi = 10;

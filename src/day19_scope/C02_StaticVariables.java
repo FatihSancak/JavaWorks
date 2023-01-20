@@ -39,7 +39,7 @@ public class C02_StaticVariables {
         System.out.println("static method'dan gelen static Sayi = " + staticSay);
     }
     public void staticOlmayanMethod(){
-        System.out.println("static olmayan Sayi = " + staticSay);
+        System.out.println("stati c olmayan Sayi = " + staticSay);
         staticSay=20;
     }
 }

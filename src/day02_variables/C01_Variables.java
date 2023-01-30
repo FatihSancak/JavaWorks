@@ -8,7 +8,7 @@ package src.day02_variables;
             //  variable             değer
 
             // Java önce değeri hesaplar sonra assign işlenmi yapar
-                not2 =90;
+                not2 =100;
 
             // yeni bir int variable oluşturalım değeri ilk iki variable'in ortalamaası olsun
 

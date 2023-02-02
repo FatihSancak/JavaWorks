@@ -8,7 +8,7 @@ public class ForLoop {
         // Soru : 1
         // Ekrana 10 kez "Java Hayattır" yazdırın
         for (int i = 0; i < 10 ; i++) {
-            //    System.out.println(i+"Java Hayattır");
+                System.out.println(i+"Java Hayattır");
         }
         System.out.println("");
         System.out.println("*******************");

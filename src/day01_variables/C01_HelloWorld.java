@@ -1,4 +1,4 @@
-package day01_variables;
+package src.day01_variables;
 
 public class C01_HelloWorld
 {

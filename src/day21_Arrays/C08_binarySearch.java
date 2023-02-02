@@ -27,6 +27,5 @@ public class C08_binarySearch {
 
         // binarySearch ile dönen index değeri
         System.out.println(Arrays.binarySearch(harfler, arananHarf));
-
     }
 }

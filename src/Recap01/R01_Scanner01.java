@@ -1,4 +1,4 @@
-package src.day13_Recap01;
+package src.Recap01;
 
 import java.util.Scanner;
 

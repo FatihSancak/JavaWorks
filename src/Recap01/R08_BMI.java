@@ -1,4 +1,4 @@
-package src.day13_Recap01;
+package src.Recap01;
 
 public class R08_BMI {
     public static void main(String[] args) {

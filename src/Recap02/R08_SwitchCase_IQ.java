@@ -1,4 +1,4 @@
-package src.day14_Recap02;
+package src.Recap02;
 public class R08_SwitchCase_IQ {
     public static void main(String[] args) {
 

@@ -1,6 +1,4 @@
-package src.day14_Recap02;
-
-import java.util.Scanner;
+package src.Recap02;
 
 public class R05_NestedIf {
     public static void main(String[] args) {

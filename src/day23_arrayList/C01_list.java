@@ -1,7 +1,6 @@
 package src.day23_arrayList;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class C01_list {

@@ -19,10 +19,10 @@ public class C05_remove {
         /*
         sayýlardan oluþan bir list varsa Java remove() method'unda
         sayý yazdýðýmýzda direk index olarak kabul eder.
-         */
+        illa da 5'i silsin dersek
+        silinecek objcet'i bir variable'a tanýmlayabiliriz
+        */
 
-        // illa da 5'i silsin dersek
-        // silinecek objcet'i bir variable'a tanýmlayabiliriz
         Integer sil = 5;
         sayilar1.remove(sil);
         System.out.println("sayilar1 = " + sayilar1);// [2, 1]
@@ -31,6 +31,5 @@ public class C05_remove {
         // 2' yi silmek için 2'nin index'ini bulup onu remove'a yazabiliriz.
         sayilar1.remove(sayilar1.indexOf(2));
         System.out.println(sayilar1); // [1]
-
     }
 }

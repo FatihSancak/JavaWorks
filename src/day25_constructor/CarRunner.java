@@ -8,7 +8,10 @@ public class CarRunner {
         car1.yil = 2020;
         car1.marka = "Toyota";
 
-        System.out.println("Car1 Bilgileri\nMarka : " + car1.marka + "\nModel : " + car1.model + "\nYýl : " + car1.yil + "\nFiyat : " + car1.fiyat);
+        System.out.println("Car1 Bilgileri\nMarka : " + car1.marka +
+                "\nModel : " + car1.model +
+                "\nYýl : " + car1.yil +
+                "\nFiyat : " + car1.fiyat);
         /*
         Car1 Bilgileri
         Marka : Toyota
@@ -20,7 +23,10 @@ public class CarRunner {
         System.out.println("***************");
 
         Car car2 = new Car();
-        System.out.println("Car2 Bilgileri\nMarka : " + car2.marka + "\nModel : " + car2.model + "\nYýl : " + car2.yil + "\nFiyat : " + car2.fiyat);
+        System.out.println("Car2 Bilgileri\nMarka : " + car2.marka +
+                "\nModel : " + car2.model +
+                "\nYýl : " + car2.yil +
+                "\nFiyat : " + car2.fiyat);
         /*
         Herhangi bir object üzerinden bir variable yazdýrmaya
         çalýþtýðýmýzda Java deðeri þý sýralama ile arar;

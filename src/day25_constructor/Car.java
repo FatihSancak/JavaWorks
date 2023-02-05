@@ -7,10 +7,10 @@ public class Car {
     Sonra farklý class'larda araba oluþturmamýz gerekirse bu class'dan
     bir object oluþturup burada belirlenen variable ve method'lara göre araba üretir.
      */
-    String marka = "Merka belirtilmedi";
-    String model = "Model belirtilmedi";
-    int yil;
-    int fiyat;
+    public String marka = "Merka belirtilmedi";
+    public String model = "Model belirtilmedi";
+    public int yil;
+    public int fiyat;
 
     public void benziliArac() {
         System.out.println("Bu araç benzinli motora sahiptir");

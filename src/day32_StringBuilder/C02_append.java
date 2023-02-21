@@ -12,10 +12,14 @@ public class C02_append {
 
         System.out.println("sb = " + sb);
 
+        sb.append("Java",2,4);
+        System.out.println("sb22 = " + sb); // Java herþeyi düþünmüþ daha ne yapsýn daha ne yapsýn?va
+
         sb.insert(4," herþeyi düþünmüþ daha ne yapsýn");
         System.out.println(sb); // Java herþeyi düþünmüþ daha ne yapsýn daha ne yapsýn?
 
         sb.insert(22,"valla valla",6,11);
         System.out.println(sb); // Java herþeyi düþünmüþ valladaha ne yapsýn daha ne yapsýn?
+
     }
 }

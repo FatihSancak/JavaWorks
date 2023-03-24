@@ -10,7 +10,6 @@ public interface I03_Interfaces {
     int sayi; // Buna müsaade etmez.
 
     Interface, bir class'ý parent edinemez.
-
      */
 
     void yakit();
@@ -37,10 +36,8 @@ public interface I03_Interfaces {
 
      */
 
-
     public void motor();
 
     public abstract void teker();
-
 
 }

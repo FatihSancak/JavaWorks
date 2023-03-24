@@ -29,4 +29,4 @@ public class C00_Repeat {
     6. abstract class'lar constractor'a sahiptir fakat OBJECT OlUÞTURULAMAZ.
 
      */
-    }
+}

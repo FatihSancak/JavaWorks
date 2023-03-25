@@ -21,6 +21,7 @@ public class C05_LinkedList_DequeDataTuru {
         ll4.remove();
         ll4.removeFirst();
         ll4.removeLast();
-        //Deque iki tarafli queue demektir, dolayisiyla her method'un first ve last'i var
+        // Deque iki tarafli (Double-Ended) Queue demektir,
+        // Dolayisiyla her method'un first ve last'i var
     }
 }

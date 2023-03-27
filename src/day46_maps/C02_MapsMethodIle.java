@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class C02_MapsMethodIle {
     public static void main(String[] args) {
-        Map<Integer, String> ogrenciMap = ReusableMethods.MapOlustur();
+        Map<Integer, String> ogrenciMap = ReusableMethods.mapOlustur();
 
         System.out.println(ogrenciMap);
 

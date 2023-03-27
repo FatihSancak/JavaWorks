@@ -3,12 +3,15 @@ package src.day46_maps;
 import java.util.*;
 
 public class ReusableMethods {
-    public static Map<Integer, String> MapOlustur() {
+    public static Map<Integer, String> mapOlustur() {
         Map<Integer, String> sinifMap = new HashMap<>();
         sinifMap.put(101, "Ali, Can, Dev");
         sinifMap.put(102, "Enes, Cem, Tester");
         sinifMap.put(103, "Taha, Emre, Java");
         sinifMap.put(104, "Derya, Deniz, Tester");
+        sinifMap.put(105, "Enes, Can, Tester");
+        sinifMap.put(106, "Taha, Deniz, Java");
+        sinifMap.put(107, "Derya, Cem, Tester");
 
         return sinifMap;
     }
